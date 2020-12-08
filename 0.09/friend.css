@@ -899,7 +899,7 @@ a.text-error:visited {
 	align-items: center;
 	position: absolute;
 	margin: 0 100px;
-	max-width:90vw;
+	max-width:95vw; /*控制居中留白区*/
 	height: 5%;
 	} 
 		.links-card {
